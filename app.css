@@ -26,16 +26,18 @@ h2 {
 }
 
 #mainNavbar .nav-link {
-    color: white;
+    color: rgb(186, 115, 170);
+    font-weight: 550;
 }
 
 #mainNavbar .nav-link:hover {
-    color: black;
+    color: #6bb3f2;
 }
 
 #mainNavbar .navbar-brand {
     color: #ea1c2c;
     font-size: 1.5rem;
+    font-weight: 450;
 }
 
 #headingGroup span {
@@ -47,8 +49,8 @@ h2 {
     font-size: 3rem;
 }
 
-.navbar.scrolled {
-    background: rgb(222, 192, 222);
+#mainNavbar .navbar-toggler {
+    background-color: rgb(186, 115, 170);
 }
 
 
