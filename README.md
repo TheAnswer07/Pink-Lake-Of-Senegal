@@ -39,6 +39,6 @@ You can contribute to this project by accessing my GitHub page.
 [Deployed Website Link](https://theanswer07.github.io/Pink-Lake-Of-Senegal/)
 
 ### Screenshots
-![screenshot 1](imgs/screenshots/ "Project Screenshot")
-![screenshot 2](imgs/screenshots/ "Project Screenshot")
-![screenshot 3](imgs/screenshots/ "Project Screenshot")
+![screenshot 1](imgs/screenshots/Screenshot%201.png "Screenshot 1")
+![screenshot 2](imgs/screenshots/Screenshot%202.png "Screenshot 2")
+![screenshot 3](imgs/screenshots/Screenshot%203.png "Screenshot 3")
